@@ -14,6 +14,7 @@ nav {
   align-items: center;
   min-height: 7vh;
   background-color: #51d0de;
+  position: relative;
 }
 .logo {
   color: #bf4aa8;
